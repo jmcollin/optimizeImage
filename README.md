@@ -6,10 +6,10 @@ Allow you to optimize and compress your images in batches
 
 ## Dependencies
 
-* [**mozjpeg >= 3.1**](https://github.com/mozilla/mozjpeg)
-* [**gifsicle**](https://github.com/kohler/gifsicle)
-* [**pngcrush >= 1.7.85**](http://pmt.sourceforge.net/pngcrush/)
-* [**pngquant >= 2.3.1**](https://github.com/pornel/pngquant)
+* [**mozjpeg >= 3.1**](https://github.com/mozilla/mozjpeg) [:link: Help](https://goo.gl/yvHJBx)
+* [**gifsicle**](https://github.com/kohler/gifsicle) [:link: Help](https://goo.gl/if9HMH)
+* [**pngcrush >= 1.7.85**](http://pmt.sourceforge.net/pngcrush/) [:link: Help](https://goo.gl/8HzFZu)
+* [**pngquant >= 2.3.1**](https://github.com/pornel/pngquant) [:link: Help](https://goo.gl/fxnFOl)
 * [**ImageMagick >= 6.7.7-10**](https://github.com/ImageMagick/ImageMagick)
 * **libpng >= 1.6.17**
 
