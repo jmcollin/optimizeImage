@@ -77,12 +77,12 @@ Optipmize image(s)
 
 ```
 
-Original image:
+Original image (72.8 KB):
 
 ![alt text](https://github.com/jmcollin/optimizeImage/blob/master/src/PrestaShopAddons.png "Original")
 
 
-Optimize image:
+Optimize image (59 KB):
 
 ![alt text](https://github.com/jmcollin/optimizeImage/blob/master/test/PrestaShopAddons.png "Optimize")
 
